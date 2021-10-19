@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maral
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate ona a site web
+- 💞️ I’m looking to collaborate on a site web
 - 📫 How to reach me maral.e@hotmail.com
 
 <!---
